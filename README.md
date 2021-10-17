@@ -19,9 +19,9 @@ This is a Microsoft Teams clone built with React JS and [Chat Engine!](https://c
 - Fork this repository
 - Clone this repo
 
-  ````bash
-  git clone https://github.com/SudhanshuBlaze/ms-teams-chat.git```
-  ````
+  ```bash
+  git clone https://github.com/SudhanshuBlaze/ms-teams-chat.git
+  ```
 
 - Install dependencies
 
